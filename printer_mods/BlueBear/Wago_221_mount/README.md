@@ -12,7 +12,7 @@ Any m3 screw - BHCS or SHCS - should fit.
 
 ## Snap-In mounts
 The snap-in mounts can be easily attached and removed from the extrusions. For using that mount print the desired stl
-([WAGO_221-412_3x2-mount.stl](./WAGO_221-412_3x2-mount.stl) or [WAGO_221-412_5x2-mount.stl](./WAGO_221-412_5x2-mount.stl)
+([WAGO_221-412_3x2-mount.stl](./WAGO_221-412_3x2-mount.stl) for 3x2 contacts or [WAGO_221-412_5x2-mount.stl](./WAGO_221-412_5x2-mount.stl) for 5x2 contacts
 together with at least two of the mounting clips(either [LDO](./1515_SnapIn_LDO.stl) or [MakerBeam](./1515_SnapIn_Makerbeam.stl) depending on your extrusion).
 
 Don't rotate the clips for printing. They must be printed upright, as shown in the picture. Otherwise the clips might break upon inserting into the extrusion.
@@ -20,6 +20,8 @@ Don't rotate the clips for printing. They must be printed upright, as shown in t
 ![Print Orientation](./images/PrintOrientation.jpg "Print Orientation")
 
 Use M2 self-tapping screws to attach the clips into the appropriate places of the mount. Screw heads must be flush otherwise the WAGOs won't fit.
+
+There is also a [WAGO_221-413_3x3-mount.stl](./WAGO_221-413_3x3-mount.stl) if you want to clip in 3x3 contacts (e.g. next to the power inlet).
 
 ![Assembly](./images/Mounting.jpg "Assembly")
 
